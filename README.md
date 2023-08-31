@@ -1,4 +1,4 @@
-## Oii eu sou o Felipe, desenvolvedor web em andamento!
+## Desenvolvedor web em andamento!
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="llpe-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
