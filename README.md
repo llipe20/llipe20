@@ -1,4 +1,4 @@
-## Desenvolvedor web em andamento!
+## Desenvolvedor front end em andamento!
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="llpe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
