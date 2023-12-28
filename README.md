@@ -1,4 +1,4 @@
-## Desenvolvedor front end em andamento!
+## Desenvolvedor Front End - TS | JS  | React | Vue
 
 Oiie, meu nome é Felipe, tenho 20 anos e estou na metade do curso de Análise e Desenvolvimento de Sistema. Atualmente, estou aprimorando minhas habilidades em Type-Script e React, possuo domínio nas tecnologias Vue.js e TailwindCSS para atuar no Front-end. Tenho conhecimento em API's e em linguagem do lado do servidor com PHP, podendo construir pequenos sistemas. Futuramente, pretendo focar no Back-end, runo ao FullStak, com Node.js. Mas antes ... Quero entrar no mercado e conseguir a minha primeira vaga dev :)
 
