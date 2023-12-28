@@ -1,6 +1,6 @@
 ## Desenvolvedor Front End - TS | JS  | React | Vue
 
-Oiie, meu nome é Felipe, tenho 20 anos e estou na metade do curso de Análise e Desenvolvimento de Sistema. Atualmente, estou aprimorando minhas habilidades em Type-Script e React, possuo domínio nas tecnologias Vue.js e TailwindCSS para atuar no Front-end. Tenho conhecimento em API's e em linguagem do lado do servidor com PHP, podendo construir pequenos sistemas. Futuramente, pretendo focar no Back-end, runo ao FullStak, com Node.js. Mas antes ... Quero entrar no mercado e conseguir a minha primeira vaga dev :)
+Oiie, meu nome é Felipe, tenho 20 anos e estou na metade do curso de Análise e Desenvolvimento de Sistema. Atualmente, estou aprimorando minhas habilidades em Type-Script e React, possuo domínio nas tecnologias Vue.js e TailwindCSS para atuar no Front-end. Tenho conhecimento em API's, em linguagem do lado do servidor com PHP e banco de dados, podendo construir pequenos sistemas. Futuramente, pretendo focar no Back-end, runo ao FullStak, com Node.js. Mas antes ... Quero entrar no mercado e conseguir a minha primeira vaga dev :)
 
 <div style="display: inline_block"><br>  
   <img align="center" alt="llpe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
