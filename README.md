@@ -1,4 +1,4 @@
-## Desenvolvedor Front End - TS | JS  | React | Vue
+## Analista | Desenvolvedor Front-End - DAX | JS  | React 
 
 Me chamo Felipe, tenho 22 anos e estou no último período do curso de Análise e Desenvolvimento de Sistemas, pelo Centro Universitário de Ensino do Maranhão Unifacema. Atualmente, trabalho como Analista Comercial na revenda de bebidas AmBev Discar Distribuidora, no Maranhão, apurando resultados, desenvolvendo acompanhamentos e relatórios, e gerenciando KPIs usando Excel, DAX e Power BI como ferramentas. Também faço uso de algumas linguagens de programação e frameworks para trabalhos pontuais, como sites, sistemas e pequenas automações.
 
